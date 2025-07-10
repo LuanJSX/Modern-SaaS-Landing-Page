@@ -1,3 +1,6 @@
+
+[Pc_landing.webm](https://github.com/user-attachments/assets/939ef014-9ed3-40f4-80ed-87d82a253a0f)
+
 # 🌐 Landing Page Responsiva com React + Vite + Tailwind
 
 Este projeto demonstra a construção de uma **landing page moderna e responsiva**, ideal para apresentar produtos, serviços ou startups focadas em tecnologia.
