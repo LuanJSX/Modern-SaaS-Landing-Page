@@ -58,7 +58,7 @@ export const Hero = () => {
         </div>
       </div>
      <div className="flex flex-1  lg:h-auto relative lg:max-w-non lg:mx-0 mx-auto max-w-3xl">
-         <img src="src\assets\person.jpg" alt="Hero-Img" width={2350} height={2359} className="lg:absolute lg:w-full lg:h-full rounded-3xl object-cover lg:max-h-non max-h-96"/>
+         <img src="assets\person.jpg" alt="Hero-Img" width={2350} height={2359} className="lg:absolute lg:w-full lg:h-full rounded-3xl object-cover lg:max-h-non max-h-96"/>
      </div>
       </Container> 
       <Numbers/>
